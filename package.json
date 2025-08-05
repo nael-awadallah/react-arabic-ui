@@ -17,8 +17,12 @@
     "emotion",
     "components"
   ],
-  "author": "Your Name",
+  "author": "Nael Awadallah",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nael-awadallah/react-arabic-ui"
+  },
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
