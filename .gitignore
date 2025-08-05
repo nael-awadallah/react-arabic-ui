@@ -3,3 +3,4 @@ dist/
 npm-debug.log*
 .yarn-integrity
 .cache
+.DS_Store
